@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # capstone_react_web
 4학년 1학기 리액트 웹 페이지 구현부 로직 저장소입니다.
 =======
@@ -7,6 +8,9 @@
 >>>>>>> 2bc636c (Initial commit)
 =======
 2025 졸작 아두이노 주요 기능 요약 
+=======
+<h2><span style="color: skyblue">2025 졸작 아두이노 주요 기능 요약</span></h2>
+>>>>>>> 2a868ae (README.md)
 
 ### setup()
 
