@@ -1,5 +1,6 @@
 #include <Wire.h>
 #include <MPU6050.h>
+// 하드웨어 구현 로직입니다.
 
 #define BT_SERIAL Serial1  
 #define TRIG_PIN 9
